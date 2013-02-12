@@ -40,6 +40,7 @@
   "458a4770df": "angkop",
   "47e2886ee5": "Buwis",
   "492308d641": "Ang iyong order ay bahagyang binayaran at Nag-expire na ang invoice. Huwag magpadala ng anumang higit pang mga pagbabayad sa address na ito.",
+  "4999c6c6c7": "Suskrisyon",
   "49e96d7cdf": "Dami",
   "4c94ba8d65": "Invoice ay may-bisa para sa:",
   "53287e6aae": "Punan ang Order",
@@ -61,6 +62,7 @@
   "7a552636e3": "TANDAAN",
   "7b0c9bb304": "Email Resibo",
   "7d9eb7acb1": "Isara",
+  "809753fdaa": "Subscription Detalye",
   "809f9470d2": "Merchant Tanging",
   "822bab8d41": "Dami",
   "89713b9c9c": "Tanggapin",
@@ -73,7 +75,6 @@
   "98bad4f12c": "Magpa-print ng Resibo",
   "99e71f48c4": "Pagsisiyasat",
   "9bd88f2485": "Desktop",
-  "9d3db82330": "Magpadala ng Bill",
   "a00a79ef36": "Kumuha ng Bitcoins",
   "a12ef86976": "Bill Info",
   "a9715d5277": "Mayroon Puno",
@@ -122,6 +123,7 @@
   "f8d47b82e2": "Makipag-ugnay sa Suporta",
   "fc33f73246": "Lungsod",
   "fc6d420adb": "Nag-expire na ang iyong invoice. Huwag magpadala ng anumang higit pang mga pagbabayad sa address na ito.",
+  "fce8c7f428": "Susunod Pagbabayad Dahil",
   "fcfc382915": "Tanggalin Item",
   "ff11d43060": "Bayaran ang Invoice"
 }

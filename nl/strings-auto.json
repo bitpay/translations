@@ -40,6 +40,7 @@
   "458a4770df": "verschuldigd",
   "47e2886ee5": "Belasting",
   "492308d641": "Uw bestelling is gedeeltelijk betaald en de factuur is verstreken. Stuur geen betalingen meer naar dit adres.",
+  "4999c6c6c7": "Abonnement",
   "49e96d7cdf": "Bedrag",
   "4c94ba8d65": "Factuur is geldig voor:",
   "53287e6aae": "Vul Bestel",
@@ -61,6 +62,7 @@
   "7a552636e3": "OPMERKING",
   "7b0c9bb304": "E-mail ontvangst",
   "7d9eb7acb1": "Sluiten",
+  "809753fdaa": "Inschrijving Detail",
   "809f9470d2": "Merchants Alleen",
   "822bab8d41": "Hoeveelheid",
   "89713b9c9c": "Aanvaarden",
@@ -73,7 +75,6 @@
   "98bad4f12c": "Print Ontvangst",
   "99e71f48c4": "Uitchecken",
   "9bd88f2485": "Desktop",
-  "9d3db82330": "Stuur Bill",
   "a00a79ef36": "Get Bitcoins",
   "a12ef86976": "Bill Info",
   "a9715d5277": "Al ingevuld",
@@ -122,6 +123,7 @@
   "f8d47b82e2": "Contact opnemen met ondersteuning",
   "fc33f73246": "City",
   "fc6d420adb": "Uw factuur is verlopen. Stuur geen betalingen meer naar dit adres.",
+  "fce8c7f428": "Volgende betaling is verschuldigd",
   "fcfc382915": "Item verwijderen",
   "ff11d43060": "Betaal deze factuur"
 }

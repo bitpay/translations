@@ -40,6 +40,7 @@
   "458a4770df": "debido",
   "47e2886ee5": "Impuesto",
   "492308d641": "Su pedido ha sido pagado parcialmente y la factura ha caducado. No envíe más pagos a esta dirección.",
+  "4999c6c6c7": "Suscripción",
   "49e96d7cdf": "Cantidad",
   "4c94ba8d65": "Factura es válido para:",
   "53287e6aae": "Orden de relleno",
@@ -61,6 +62,7 @@
   "7a552636e3": "NOTA",
   "7b0c9bb304": "Correo electrónico de recibos",
   "7d9eb7acb1": "Cerrar",
+  "809753fdaa": "Suscripción Detalle",
   "809f9470d2": "Sólo vendedores",
   "822bab8d41": "Cantidad",
   "89713b9c9c": "Aceptar",
@@ -73,7 +75,6 @@
   "98bad4f12c": "Impresión en el recibo",
   "99e71f48c4": "Caja",
   "9bd88f2485": "Escritorio",
-  "9d3db82330": "Enviar Bill",
   "a00a79ef36": "Cómo Bitcoins",
   "a12ef86976": "Bill Info",
   "a9715d5277": "Ya está lleno",
@@ -122,6 +123,7 @@
   "f8d47b82e2": "Contacte con el soporte",
   "fc33f73246": "Ciudad",
   "fc6d420adb": "La factura ha caducado. No envíe más pagos a esta dirección.",
+  "fce8c7f428": "Vencimiento de Pago siguiente",
   "fcfc382915": "Eliminar elemento",
   "ff11d43060": "Pague esta factura"
 }

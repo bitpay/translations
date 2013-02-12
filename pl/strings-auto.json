@@ -40,6 +40,7 @@
   "458a4770df": "należny",
   "47e2886ee5": "Podatek",
   "492308d641": "Twoje zamówienie zostało opłacone i częściowo faktura wygasła. Nie wysyłaj już więcej wpłat na ten adres.",
+  "4999c6c6c7": "Prenumerata",
   "49e96d7cdf": "Kwota",
   "4c94ba8d65": "Faktura ta jest ważna do:",
   "53287e6aae": "Wypełnij zamówienie",
@@ -61,6 +62,7 @@
   "7a552636e3": "UWAGA",
   "7b0c9bb304": "Otrzymanie Email",
   "7d9eb7acb1": "Zamknąć",
+  "809753fdaa": "Szczegóły subskrypcji",
   "809f9470d2": "Tylko Merchants",
   "822bab8d41": "Ilość",
   "89713b9c9c": "Akceptować",
@@ -73,7 +75,6 @@
   "98bad4f12c": "Wydrukować pokwitowanie",
   "99e71f48c4": "Zamówienie",
   "9bd88f2485": "Pulpit",
-  "9d3db82330": "Wyślij Bill",
   "a00a79ef36": "Pobierz bitcoins",
   "a12ef86976": "Informacje Bill",
   "a9715d5277": "Już wypełnione",
@@ -122,6 +123,7 @@
   "f8d47b82e2": "Kontakt z pomocą techniczną",
   "fc33f73246": "Miasto",
   "fc6d420adb": "Faktura wygasła. Nie wysyłaj już więcej wpłat na ten adres.",
+  "fce8c7f428": "Obok płatności należnej",
   "fcfc382915": "Usuń element",
   "ff11d43060": "Zapłacić tę fakturę"
 }

@@ -40,6 +40,7 @@
   "458a4770df": "fällig",
   "47e2886ee5": "Steuer",
   "492308d641": "Ihre Bestellung wurde teilweise bezahlt und die Rechnung ist abgelaufen. Senden Sie keine Zahlungen mehr an diese Adresse.",
+  "4999c6c6c7": "Abonnement",
   "49e96d7cdf": "Menge",
   "4c94ba8d65": "Rechnung ist gültig für:",
   "53287e6aae": "Füllen Auftrag",
@@ -61,6 +62,7 @@
   "7a552636e3": "HINWEIS",
   "7b0c9bb304": "Email Receipt",
   "7d9eb7acb1": "Schließen",
+  "809753fdaa": "Abonnement Detailansicht",
   "809f9470d2": "Merchants Nur",
   "822bab8d41": "Menge",
   "89713b9c9c": "Akzeptieren",
@@ -73,7 +75,6 @@
   "98bad4f12c": "Drucken Receipt",
   "99e71f48c4": "Kasse",
   "9bd88f2485": "Desktop",
-  "9d3db82330": "Senden Bill",
   "a00a79ef36": "Holen Bitcoins",
   "a12ef86976": "Bill Info",
   "a9715d5277": "Bereits ausgefüllt",
@@ -122,6 +123,7 @@
   "f8d47b82e2": "Kontakt Support",
   "fc33f73246": "City",
   "fc6d420adb": "Ihre Rechnung ist abgelaufen. Senden Sie keine Zahlungen mehr an diese Adresse.",
+  "fce8c7f428": "Weiter Zahlungstermine",
   "fcfc382915": "Eintrag löschen",
   "ff11d43060": "Zahlen diese Rechnung"
 }

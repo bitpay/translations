@@ -40,6 +40,7 @@
   "458a4770df": "dėl",
   "47e2886ee5": "Mokestis",
   "492308d641": "Jūsų užsakymas buvo iš dalies apmokėta ir sąskaitos galiojimo laikas baigėsi. Negalima siųsti daugiau mokėjimus šiuo adresu.",
+  "4999c6c6c7": "Prenumerata",
   "49e96d7cdf": "Suma",
   "4c94ba8d65": "Sąskaita faktūra galioja:",
   "53287e6aae": "Pildymo tvarka",
@@ -61,6 +62,7 @@
   "7a552636e3": "PASTABA",
   "7b0c9bb304": "Laišką gavimas",
   "7d9eb7acb1": "Uždaryti",
+  "809753fdaa": "Prenumerata detalės",
   "809f9470d2": "Prekybininkams",
   "822bab8d41": "Kiekis",
   "89713b9c9c": "Priimti",
@@ -73,7 +75,6 @@
   "98bad4f12c": "Spausdinti kvitą",
   "99e71f48c4": "Išsiregistravimo laikas",
   "9bd88f2485": "Desktop",
-  "9d3db82330": "Siųsti Bill",
   "a00a79ef36": "Gauk Bitcoins",
   "a12ef86976": "Billas Informacija",
   "a9715d5277": "Jau Įdaryti",
@@ -122,6 +123,7 @@
   "f8d47b82e2": "Kreiptis į palaikymo tarnybą",
   "fc33f73246": "Miestas",
   "fc6d420adb": "Jūsų sąskaita baigėsi. Negalima siųsti daugiau mokėjimus šiuo adresu.",
+  "fce8c7f428": "Kitas mokėjimas Dėl",
   "fcfc382915": "Naikinti elementą",
   "ff11d43060": "Mokėti šioje sąskaitoje faktūroje"
 }

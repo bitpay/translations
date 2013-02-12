@@ -40,6 +40,7 @@
   "458a4770df": "zaradi",
   "47e2886ee5": "Davčna",
   "492308d641": "Vaše naročilo je bilo deloma plačano, in račun je potekel. Ne pošiljajte več plačil na ta naslov.",
+  "4999c6c6c7": "Naročnina",
   "49e96d7cdf": "Znesek",
   "4c94ba8d65": "Račun velja za:",
   "53287e6aae": "Vrstni red polnjenja",
@@ -61,6 +62,7 @@
   "7a552636e3": "OPOMBA",
   "7b0c9bb304": "E-mail naslov listek",
   "7d9eb7acb1": "Zapri",
+  "809753fdaa": "Naročnina Podrobnosti",
   "809f9470d2": "Trgovci samo",
   "822bab8d41": "Količina",
   "89713b9c9c": "Sprejmi",
@@ -73,7 +75,6 @@
   "98bad4f12c": "Tiskanje Prejem",
   "99e71f48c4": "Nakup",
   "9bd88f2485": "Osebno",
-  "9d3db82330": "Pošlji Bill",
   "a00a79ef36": "Prijava Bitcoins",
   "a12ef86976": "Bill Info",
   "a9715d5277": "Že Filled",
@@ -122,6 +123,7 @@
   "f8d47b82e2": "Stik za podporo",
   "fc33f73246": "Mesto",
   "fc6d420adb": "Vaš račun je potekel. Ne pošiljajte več plačil na ta naslov.",
+  "fce8c7f428": "Naslednja Plačilo Zaradi",
   "fcfc382915": "Izbriši",
   "ff11d43060": "Bodite tej fakturi"
 }

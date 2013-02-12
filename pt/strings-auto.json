@@ -40,6 +40,7 @@
   "458a4770df": "devido",
   "47e2886ee5": "Imposto",
   "492308d641": "Seu pedido foi parcialmente pago a fatura e expirou. Não envie pagamentos mais a este endereço.",
+  "4999c6c6c7": "Assinatura",
   "49e96d7cdf": "Quantidade",
   "4c94ba8d65": "Fatura é válido para:",
   "53287e6aae": "Preencha Ordem",
@@ -61,6 +62,7 @@
   "7a552636e3": "NOTA",
   "7b0c9bb304": "Recebimento de e-mail",
   "7d9eb7acb1": "Fechar",
+  "809753fdaa": "Detalhe Assinatura",
   "809f9470d2": "Apenas os comerciantes",
   "822bab8d41": "Quantidade",
   "89713b9c9c": "Aceitar",
@@ -73,7 +75,6 @@
   "98bad4f12c": "Imprimir Recibo",
   "99e71f48c4": "Checkout",
   "9bd88f2485": "Área de trabalho",
-  "9d3db82330": "Enviar Bill",
   "a00a79ef36": "Obter Bitcoins",
   "a12ef86976": "Informações Bill",
   "a9715d5277": "Já preenchido",
@@ -122,6 +123,7 @@
   "f8d47b82e2": "Contato com o Suporte",
   "fc33f73246": "Cidade",
   "fc6d420adb": "Sua fatura expirou. Não envie pagamentos mais a este endereço.",
+  "fce8c7f428": "Devido próximo pagamento",
   "fcfc382915": "Excluir Item",
   "ff11d43060": "Pagar esta fatura"
 }

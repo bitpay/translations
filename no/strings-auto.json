@@ -40,6 +40,7 @@
   "458a4770df": "grunn",
   "47e2886ee5": "Skatt",
   "492308d641": "Din bestilling er delvis betalt og fakturaen er utløpt. Ikke send noen flere utbetalinger til denne adressen.",
+  "4999c6c6c7": "Abonnement",
   "49e96d7cdf": "Beløp",
   "4c94ba8d65": "Faktura er gyldig for:",
   "53287e6aae": "Utfyllingsrekkefølge",
@@ -61,6 +62,7 @@
   "7a552636e3": "MERK",
   "7b0c9bb304": "E Kvittering",
   "7d9eb7acb1": "Lukk",
+  "809753fdaa": "Abonnement Detalj",
   "809f9470d2": "Merchants Kun",
   "822bab8d41": "Antall",
   "89713b9c9c": "Godta",
@@ -73,7 +75,6 @@
   "98bad4f12c": "Skriv ut kvittering",
   "99e71f48c4": "Checkout",
   "9bd88f2485": "Desktop",
-  "9d3db82330": "Send Bill",
   "a00a79ef36": "Få Bitcoins",
   "a12ef86976": "Bill Info",
   "a9715d5277": "Allerede fylt",
@@ -122,6 +123,7 @@
   "f8d47b82e2": "Kontakt support",
   "fc33f73246": "By",
   "fc6d420adb": "Fakturaen er utløpt. Ikke send noen flere utbetalinger til denne adressen.",
+  "fce8c7f428": "Neste Betalingsbetingelser",
   "fcfc382915": "Slett element",
   "ff11d43060": "Betale dette Faktura"
 }
