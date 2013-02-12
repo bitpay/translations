@@ -40,6 +40,7 @@
   "458a4770df": "otse",
   "47e2886ee5": "Maks",
   "492308d641": "Teie tellimus on osaliselt tasutud ja arve on lõppenud. Ärge saatke enam makseid sellele aadressile.",
+  "4999c6c6c7": "Tellimus",
   "49e96d7cdf": "Summa",
   "4c94ba8d65": "Arve kehtib:",
   "53287e6aae": "Täida Telli",
@@ -61,6 +62,7 @@
   "7a552636e3": "MÄRKUS",
   "7b0c9bb304": "E-kviitung",
   "7d9eb7acb1": "Lähedal",
+  "809753fdaa": "Registreerumine Täpsusta",
   "809f9470d2": "Kaupmehed ainult",
   "822bab8d41": "Kogus",
   "89713b9c9c": "Aktsepteerima",
@@ -73,7 +75,6 @@
   "98bad4f12c": "Prindi laekumine",
   "99e71f48c4": "Kassa",
   "9bd88f2485": "Lauaarvuti",
-  "9d3db82330": "Saada Bill",
   "a00a79ef36": "Hangi Bitcoins",
   "a12ef86976": "Bill Info",
   "a9715d5277": "Juba täidetud",
@@ -122,6 +123,7 @@
   "f8d47b82e2": "Võta Probleemid",
   "fc33f73246": "Linn",
   "fc6d420adb": "Sinu arve on lõppenud. Ärge saatke enam makseid sellele aadressile.",
+  "fce8c7f428": "Järgmine Maksmise",
   "fcfc382915": "Kustuta üksus",
   "ff11d43060": "Makske see Arve"
 }

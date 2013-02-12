@@ -40,6 +40,7 @@
   "458a4770df": "causa",
   "47e2886ee5": "Impost",
   "492308d641": "La seva comanda ha estat pagat parcialment i la factura ha caducat. No envieu més pagaments a aquesta direcció.",
+  "4999c6c6c7": "Subscripció",
   "49e96d7cdf": "Quantitat",
   "4c94ba8d65": "Factura és vàlid per:",
   "53287e6aae": "Ordre de farciment",
@@ -61,6 +62,7 @@
   "7a552636e3": "NOTA",
   "7b0c9bb304": "Correu electrònic de rebuts",
   "7d9eb7acb1": "Tancar",
+  "809753fdaa": "Subscripció Detall",
   "809f9470d2": "Només venedors",
   "822bab8d41": "Quantitat",
   "89713b9c9c": "Acceptar",
@@ -73,7 +75,6 @@
   "98bad4f12c": "Impressió en el rebut",
   "99e71f48c4": "Caixa",
   "9bd88f2485": "Escriptori",
-  "9d3db82330": "Enviar Bill",
   "a00a79ef36": "Com Bitcoins",
   "a12ef86976": "Bill Info",
   "a9715d5277": "Ja està ple",
@@ -122,6 +123,7 @@
   "f8d47b82e2": "Contacti amb el suport",
   "fc33f73246": "Ciutat",
   "fc6d420adb": "La factura ha caducat. No envieu més pagaments a aquesta direcció.",
+  "fce8c7f428": "Venciment de pagament següent",
   "fcfc382915": "Elimina element",
   "ff11d43060": "Pagui aquesta factura"
 }

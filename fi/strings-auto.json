@@ -40,6 +40,7 @@
   "458a4770df": "maksettava",
   "47e2886ee5": "Vero",
   "492308d641": "Tilauksesi on osittain maksettu, ja lasku on päättynyt. Älä lähetä enää maksuja tähän osoitteeseen.",
+  "4999c6c6c7": "Tilaus",
   "49e96d7cdf": "Määrä",
   "4c94ba8d65": "Lasku on voimassa:",
   "53287e6aae": "Täytä Tilaa",
@@ -61,6 +62,7 @@
   "7a552636e3": "HUOM",
   "7b0c9bb304": "Sähköposti Kuitti",
   "7d9eb7acb1": "Lähellä",
+  "809753fdaa": "Tilaus Detail",
   "809f9470d2": "Kauppiaat Vain",
   "822bab8d41": "Määrä",
   "89713b9c9c": "Hyväksyä",
@@ -73,7 +75,6 @@
   "98bad4f12c": "Tulosta kuitti",
   "99e71f48c4": "Kassa",
   "9bd88f2485": "Pöytä-",
-  "9d3db82330": "Lähetä Bill",
   "a00a79ef36": "Hanki Bitcoins",
   "a12ef86976": "Bill Info",
   "a9715d5277": "Jo täynnä",
@@ -122,6 +123,7 @@
   "f8d47b82e2": "Ota yhteyttä tukeen",
   "fc33f73246": "Kaupunki",
   "fc6d420adb": "Laskusi on vanhentunut. Älä lähetä enää maksuja tähän osoitteeseen.",
+  "fce8c7f428": "Seuraava maksunsaantiin",
   "fcfc382915": "Poista kohde",
   "ff11d43060": "Maksa lasku"
 }

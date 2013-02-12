@@ -40,6 +40,7 @@
   "458a4770df": "esedékes",
   "47e2886ee5": "Adó",
   "492308d641": "Megrendelése részben megfizették és a számla lejárt. Ne küldjön többé kifizetés erre a címre.",
+  "4999c6c6c7": "Előfizetés",
   "49e96d7cdf": "Összeg",
   "4c94ba8d65": "Invoice érvényes:",
   "53287e6aae": "Bitsorrend",
@@ -61,6 +62,7 @@
   "7a552636e3": "MEGJEGYZÉS",
   "7b0c9bb304": "Email átvétele",
   "7d9eb7acb1": "Közeli",
+  "809753fdaa": "Előfizetés Detail",
   "809f9470d2": "Csak Merchants",
   "822bab8d41": "Mennyiség",
   "89713b9c9c": "Elfogad",
@@ -73,7 +75,6 @@
   "98bad4f12c": "Nyugta nyomtatása",
   "99e71f48c4": "Kijelentkezés",
   "9bd88f2485": "Desktop",
-  "9d3db82330": "Küldés Bill",
   "a00a79ef36": "Árat Bitcoins",
   "a12ef86976": "Bill Info",
   "a9715d5277": "Már ki van töltve",
@@ -122,6 +123,7 @@
   "f8d47b82e2": "Kapcsolatfelvétel az ügyfélszolgálattal",
   "fc33f73246": "City",
   "fc6d420adb": "A számla lejárt. Ne küldjön többé kifizetés erre a címre.",
+  "fce8c7f428": "Next Payment Due",
   "fcfc382915": "Elem törlése",
   "ff11d43060": "Fizessen a számla"
 }

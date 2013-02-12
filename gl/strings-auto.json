@@ -40,6 +40,7 @@
   "458a4770df": "debido",
   "47e2886ee5": "Imposto",
   "492308d641": "Súa solicitude foi parcialmente pago a factura e expirou. Non envíe pagos máis a este enderezo.",
+  "4999c6c6c7": "Sinatura",
   "49e96d7cdf": "Cantidade",
   "4c94ba8d65": "Factura é válido para:",
   "53287e6aae": "Encha Orde",
@@ -61,6 +62,7 @@
   "7a552636e3": "NOTA",
   "7b0c9bb304": "Recepción de correo-e",
   "7d9eb7acb1": "Pechar",
+  "809753fdaa": "Detalle Sinatura",
   "809f9470d2": "Só os comerciantes",
   "822bab8d41": "Cantidade",
   "89713b9c9c": "Aceptar",
@@ -73,7 +75,6 @@
   "98bad4f12c": "Imprimir Recibo",
   "99e71f48c4": "Checkout",
   "9bd88f2485": "Área de traballo",
-  "9d3db82330": "Enviar Bill",
   "a00a79ef36": "Obter Bitcoins",
   "a12ef86976": "Información Bill",
   "a9715d5277": "Xa cuberto",
@@ -122,6 +123,7 @@
   "f8d47b82e2": "Contacto co soporte",
   "fc33f73246": "Cidade",
   "fc6d420adb": "A súa factura caducou. Non envíe pagos máis a este enderezo.",
+  "fce8c7f428": "Debido próximo pago",
   "fcfc382915": "Eliminar Item",
   "ff11d43060": "Pagar esta factura"
 }

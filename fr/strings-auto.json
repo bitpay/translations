@@ -40,6 +40,7 @@
   "458a4770df": "dû",
   "47e2886ee5": "Impôt",
   "492308d641": "Votre commande a été partiellement payé et la facture a expiré. Ne pas envoyer de paiements, pas plus à cette adresse.",
+  "4999c6c6c7": "Abonnement",
   "49e96d7cdf": "Montant",
   "4c94ba8d65": "Facture est valable pour:",
   "53287e6aae": "Ordre de remplissage",
@@ -61,6 +62,7 @@
   "7a552636e3": "NOTE",
   "7b0c9bb304": "Réception e-mail",
   "7d9eb7acb1": "Fermer",
+  "809753fdaa": "Détail Abonnement",
   "809f9470d2": "Seuls les commerçants",
   "822bab8d41": "Quantité",
   "89713b9c9c": "Accepter",
@@ -73,7 +75,6 @@
   "98bad4f12c": "Imprimer la réception",
   "99e71f48c4": "Caisse",
   "9bd88f2485": "Bureau",
-  "9d3db82330": "Envoyer le projet de loi",
   "a00a79ef36": "Obtenez Bitcoins",
   "a12ef86976": "Infos projet de loi",
   "a9715d5277": "Déjà Rempli",
@@ -122,6 +123,7 @@
   "f8d47b82e2": "Contacter le support",
   "fc33f73246": "Ville",
   "fc6d420adb": "Votre facture a expiré. Ne pas envoyer de paiements, pas plus à cette adresse.",
+  "fce8c7f428": "D'échéance",
   "fcfc382915": "Supprimer l'élément",
   "ff11d43060": "Payer cette facture"
 }

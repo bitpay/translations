@@ -40,6 +40,7 @@
   "458a4770df": "do",
   "47e2886ee5": "Thuế",
   "492308d641": "Đơn đặt hàng của bạn đã được thanh toán một phần và hoá đơn đã hết hạn. Không gửi thanh toán đến cho các địa chỉ này.",
+  "4999c6c6c7": "Đăng ký",
   "49e96d7cdf": "Số tiền",
   "4c94ba8d65": "Hóa đơn có giá trị:",
   "53287e6aae": "Lệnh",
@@ -61,6 +62,7 @@
   "7a552636e3": "LƯU Ý",
   "7b0c9bb304": "Email Receipt",
   "7d9eb7acb1": "Đóng",
+  "809753fdaa": "Đăng ký chi tiết",
   "809f9470d2": "Merchants Chỉ",
   "822bab8d41": "Số lượng",
   "89713b9c9c": "Chấp nhận",
@@ -73,7 +75,6 @@
   "98bad4f12c": "In Biên nhận",
   "99e71f48c4": "Thanh toán",
   "9bd88f2485": "Máy tính để bàn",
-  "9d3db82330": "Gửi Bill",
   "a00a79ef36": "Nhận Bitcoins",
   "a12ef86976": "Bill Thông tin",
   "a9715d5277": "Đã được lấp đầy",
@@ -122,6 +123,7 @@
   "f8d47b82e2": "Liên hệ Hỗ trợ",
   "fc33f73246": "Thành phố",
   "fc6d420adb": "Hóa đơn của bạn đã hết hạn. Không gửi thanh toán đến cho các địa chỉ này.",
+  "fce8c7f428": "Tiếp theo hạn thanh toán",
   "fcfc382915": "Xóa mục",
   "ff11d43060": "Thanh toán hoá đơn này"
 }

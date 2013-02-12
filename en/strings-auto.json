@@ -40,6 +40,7 @@
   "458a4770df": "due",
   "47e2886ee5": "Tax",
   "492308d641": "Your order has been partially paid and the invoice has expired. Do not send any more payments to this address.",
+  "4999c6c6c7": "Subscription",
   "49e96d7cdf": "Amount",
   "4c94ba8d65": "Invoice is valid for:",
   "53287e6aae": "Fill Order",
@@ -61,6 +62,7 @@
   "7a552636e3": "NOTE",
   "7b0c9bb304": "Email Receipt",
   "7d9eb7acb1": "Close",
+  "809753fdaa": "Subscription Detail",
   "809f9470d2": "Merchants Only",
   "822bab8d41": "Quantity",
   "89713b9c9c": "Accept",
@@ -73,7 +75,6 @@
   "98bad4f12c": "Print Receipt",
   "99e71f48c4": "Checkout",
   "9bd88f2485": "Desktop",
-  "9d3db82330": "Send Bill",
   "a00a79ef36": "Get Bitcoins",
   "a12ef86976": "Bill Info",
   "a9715d5277": "Already Filled",
@@ -122,6 +123,7 @@
   "f8d47b82e2": "Contact Support",
   "fc33f73246": "City",
   "fc6d420adb": "Your invoice has expired. Do not send any more payments to this address.",
+  "fce8c7f428": "Next Payment Due",
   "fcfc382915": "Delete Item",
   "ff11d43060": "Pay this Invoice"
 }

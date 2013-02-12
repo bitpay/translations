@@ -40,6 +40,7 @@
   "458a4770df": "dovut",
   "47e2886ee5": "Taxxa",
   "492308d641": "Ordni tiegħek ġiet parzjalment imħallsa u l-fattura jkun skada. M'għandekx tibgħat pagamenti kwalunkwe aktar għal dan l-indirizz.",
+  "4999c6c6c7": "Abbonament",
   "49e96d7cdf": "Ammont",
   "4c94ba8d65": "Fattura huwa validu għal:",
   "53287e6aae": "Imla l-Ordni",
@@ -61,6 +62,7 @@
   "7a552636e3": "NOTA",
   "7b0c9bb304": "Irċevuta Email",
   "7d9eb7acb1": "Agħlaq",
+  "809753fdaa": "Dettall Abbonament",
   "809f9470d2": "Merkanti Biss",
   "822bab8d41": "Kwantità",
   "89713b9c9c": "Aċċetta",
@@ -73,7 +75,6 @@
   "98bad4f12c": "Stampa Irċevuta",
   "99e71f48c4": "Checkout",
   "9bd88f2485": "Desktop",
-  "9d3db82330": "Send Bill",
   "a00a79ef36": "Get Bitcoins",
   "a12ef86976": "Info Bill",
   "a9715d5277": "Diġà Mimlijin",
@@ -122,6 +123,7 @@
   "f8d47b82e2": "Kuntatt Appoġġ",
   "fc33f73246": "Belt",
   "fc6d420adb": "Fattura tiegħek ikun skada. M'għandekx tibgħat pagamenti kwalunkwe aktar għal dan l-indirizz.",
+  "fce8c7f428": "Ħlas jmiss Minħabba",
   "fcfc382915": "Ħassar Punt",
   "ff11d43060": "Pay dan Fattura"
 }
